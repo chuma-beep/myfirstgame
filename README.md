@@ -1,2 +1,2 @@
 # myfirstgame
-This an old school game re-made using python. Thanks to free code camp. 
+This the remake of an old school game named spaceinvaders using python. Thanks to freecode camp. 
